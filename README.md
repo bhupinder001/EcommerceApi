@@ -1,12 +1,14 @@
-# E-Commerce Website
+# E-Commerce API
 
-A Ecommerce Website made with React.js Framework.
+A Ecommerce API made with Node.js Framework.
 
 
 ## Features
 
-- Easy to integrate with Backend
-- Fully Responsive
+- Backend API for e-commerce api
+- category crud operation
+- product crud operation
+- place order
 
 
 
@@ -28,6 +30,10 @@ Install dependencies
 
 ```bash
   npm install
+npm install axios
+npm i express
+npm i body-parser
+npm i mysql2
 ```
 
 Start the server
